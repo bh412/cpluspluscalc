@@ -1,3 +1,0 @@
-/Users/benjamin.hanson/dev/cplusplus-project/build/CMakeFiles/calculator.dir
-/Users/benjamin.hanson/dev/cplusplus-project/build/CMakeFiles/edit_cache.dir
-/Users/benjamin.hanson/dev/cplusplus-project/build/CMakeFiles/rebuild_cache.dir
